@@ -1,2 +1,2 @@
 # My-Python-lessons
-Hey there ! I polished some of my old notes with chat GPT and it looked nice enough to upload them here. I hope they can be useful for somebody somewhere 
+Hey there ! I was going through my python notes once again and decided to polish and make them kinda humerous. hope it would be helpful for somebody out there 
